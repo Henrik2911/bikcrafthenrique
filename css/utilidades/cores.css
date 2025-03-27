@@ -17,7 +17,7 @@
   --cor-a01: #e4a30b;
   --cor-a02: #a66f00;
   --cor-a03: #664400;
-  --cor-a05: #332200;
+  --cor-a04: #332200;
 }
 
 .cor-00 {
@@ -84,18 +84,10 @@
   color: var(--cor-a02);
 }
 
-.cor-a02 {
-  color: var(--cor-a02);
-}
-
 .cor-a03 {
   color: var(--cor-a03);
 }
 
 .cor-a04 {
   color: var(--cor-a04);
-}
-
-.cor-a05 {
-  color: var(--cor-a05);
 }
