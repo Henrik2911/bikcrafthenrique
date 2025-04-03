@@ -8,18 +8,13 @@
 }
 
 .bicicleta-imagens{
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
 
-.bicicleta-imagens a{
-  flex: 1;
-  min-width: 200px;
-}
-
 .bicicleta-imagens a:first-child{
-  min-width: 100%;
+  grid-column: 1/-1;
 }
 
 .bicicleta-conteudo > p{
