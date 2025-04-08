@@ -1,5 +1,5 @@
 .seguro-BG{
-  background: var(--cor-11);
+  background: var(--cor-11) url(../../img/dec/bottom-right.svg) no-repeat bottom 160px right 40px;
   box-shadow: inset 0 120px var(--cor-00),inset 0 -120px var(--cor-12);
 }
 
